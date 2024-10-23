@@ -1,12 +1,13 @@
 # Digital-Address-Registration-System
-<br><br><br>
-https://kaddress.kukunetdigital.com/index.php
-<br><br><br>
+<br>
 The Digital Address Registration System (DARS) is a platform developed to register addresses specifically within Ethiopia, based on the country's administrative structure. It organizes addresses by region, zone, woreda, kebele, mender (neighborhood), and house number. This structured system ensures every location across Ethiopia, from urban to rural areas, has a clear and accessible address.
 <br><br><br>
 DARS allows user contributions, making it open for the public to add or update addresses, ensuring the system stays accurate and up-to-date with local developments. Additionally, it is designed for easy integration with other systems, such as government databases, delivery services, and emergency response systems, enhancing its functionality across various sectors.
 <br><br><br>
 With its user-friendly approach and seamless integration capabilities, DARS is revolutionizing how addresses are managed and accessed in Ethiopia.<br><br>
+https://kaddress.kukunetdigital.com/index.php
+<br><br><br>
+
 
 ![image](https://github.com/user-attachments/assets/a3550e2f-e44d-46f8-bdd5-1147d098ff18)
 ![image](https://github.com/user-attachments/assets/eb14fc83-23fe-4a29-be2e-1e8452a9650a)
